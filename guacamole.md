@@ -1,4 +1,6 @@
-Ingredients:
+# Nana's Guacamole
+
+**Ingredients:**
 - 2 avocados
 - 1 lime
 - 2 tsp salt
@@ -13,3 +15,5 @@ Instructions:
 - squeeze lime
 - add salt
 - and mix well
+
+![picture of yummy guacamole](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Guacamole_avocados.jpg/640px-Guacamole_avocados.jpg)
